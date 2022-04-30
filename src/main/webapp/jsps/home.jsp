@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to IT. - GitHub Webhook Demo... </h1>
-<h1 align="center"> Welcome to IT Software Solutions
+<h1 align="center"> Welcome to IT Software Sol
 <hr>
 <div style="text-align: center;">
 	<span>
